@@ -1,0 +1,39 @@
+BODY{
+  background-color: #FFFFFF;
+  margin:0;
+  padding:0;
+}
+.navbar navbar-light bg-light{
+  background-color: #E83E8C;
+}
+.logo{
+  width: 132px;
+  height: 53px;
+  align-content: flex-start;
+}
+nav{
+  height: 75px;
+}
+nav a{
+  color: #ffffff;
+}
+nav ul li{
+  margin:0 15px;
+	padding:0;
+}
+.icons{
+  display: inline-flex;
+  margin:0 15px;
+	padding:0;
+}
+footer{
+  height: 184px;
+  background-color: #E83E8C
+}
+.logof{
+  top: 1407px;
+  left: 627px;
+  width: 53px;
+  height: 100px;
+  align-content: flex-start;
+}
